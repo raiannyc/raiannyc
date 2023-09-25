@@ -47,6 +47,6 @@
 
 <h5 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Github+in+the+process+of+updating+...;&center=true&size=18">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Repositories+in+the+process+of+being+updated+...;&center=true&size=13">
   </a>
 </h5>
