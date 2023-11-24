@@ -31,8 +31,8 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,python,r,gcp,aws,azure" /><br>
-    <img src="https://skillicons.dev/icons?i=,docker,kubernetes,mysql,vscode," />
+    <img src="https://skillicons.dev/icons?i=git,github,python,r,c,gcp,aws,azure" /><br>
+    <img src="https://skillicons.dev/icons?i=,pytorch,tensorflow,docker,kubernetes,mysql,vscode," />
 
   </a>
 </p>
